@@ -1,0 +1,37 @@
+{
+	"2017-01-02": {
+		"name": "New Year's Day OBS"
+	},
+	"2017-01-16": {
+		"name": "Martin Luther King Jr. Day"
+	},
+	"2017-02-20": {
+		"name": "President's day"
+	},
+	"2017-04-14": {
+		"name": "Good Friday"
+	},
+	"2017-05-29": {
+		"name": "Memorial Day"
+	},
+	"2017-07-03": {
+		"name": "Day before Independence day",
+		"earlyClose": "13:00"
+	},
+	"2017-07-04": {
+		"name": "Independence day"
+	},
+	"2017-09-04": {
+		"name": "Labor day"
+	},
+	"2017-11-23": {
+		"name": "Thanksgiving"
+	},
+	"2017-11-24": {
+		"name": "Day after thanksgiving",
+		"earlyClose": "13:00"
+	},
+	"2017-12-25": {
+		"name": "Christmas"
+	}
+}
